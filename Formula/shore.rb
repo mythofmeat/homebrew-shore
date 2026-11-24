@@ -4,8 +4,8 @@ class Shore < Formula
   desc "Terminal chat client for the shore AI character engine"
   homepage "https://github.com/mythofmeat/shore"
   url "https://github.com/mythofmeat/shore.git",
-      tag:      "v4.66.0",
-      revision: "58b8f963b0eda22ee57b9a55489df06c3500ae60"
+      tag:      "v4.67.0",
+      revision: "90e918766bde97b845c62920f2b41e025f835d06"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on "rust" => :build
